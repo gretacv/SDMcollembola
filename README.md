@@ -32,3 +32,7 @@ RColorBrewer
 `Biomod2_script.R` R code with the code ran to model the species distribution using two sets of datapoints: (1) only with the native observed distribution and (2) with the native and non-native distribution.
 ### BIOMOD2_inputs Datapoints
 Species observations used in the modelling. 
+
+# Acknowledgements
+This study uses data from GBIF and the Antarctic Digital Database.
+Gerrish, L., Fretwell, P., & Cooper, P. (2020). _Medium resolution vector polygons of the Antarctic coastline (7.3) [Data set]._ UK Polar Data Centre, Natural Environment Research Council, UK Research & Innovation. https://doi.org/10.5285/ed0a7b70-5adc-4c1e-8d8a-0bb5ee659d18
