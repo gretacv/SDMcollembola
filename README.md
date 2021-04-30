@@ -30,8 +30,11 @@ RColorBrewer
 ### scripts
 `script_ENFA_and figures.R` contains the ENFA analysis and the code to create the figures.
 `Biomod2_script.R` R code with the code ran to model the species distribution using two sets of datapoints: (1) only with the native observed distribution and (2) with the native and non-native distribution.
-### BIOMOD2_inputs Datapoints
+### BIOMOD2_inputs 
+#### Datapoints
 Species observations used in the modelling. 
+#### Assignation by replication
+Resulting assignation to replications by the different replications of the datasets with the introduced observations.
 
 # Acknowledgements
 This study uses data from GBIF and the Antarctic Digital Database.
